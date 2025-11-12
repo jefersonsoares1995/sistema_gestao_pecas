@@ -1,6 +1,6 @@
 # Sistema de Gestão de Peças Industriais
 
-Este repositório contém o script `sistema_gestao_pecas_v1.py`, um programa de linha de comando para gerenciar peças produzidas em uma linha de montagem, com controle de qualidade e organização em caixas.
+Este repositório contém o script `sistema_gestao_pecas.py`, um programa de linha de comando para gerenciar peças produzidas em uma linha de montagem, com controle de qualidade e organização em caixas.
 
 ## Requisitos
 
@@ -18,7 +18,7 @@ pip install colorama
 No terminal, dentro desta pasta:
 
 ```bash
-python sistema_gestao_pecas_v1.py
+python sistema_gestao_pecas.py
 ```
 
 - Windows: recomenda-se usar `cmd` ou PowerShell (a limpeza de tela usa `cls`).
